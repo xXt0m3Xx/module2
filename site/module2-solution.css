@@ -166,11 +166,13 @@
    margin-left: 700px;
    margin-bottom: 5px;
     background-color: pink;
-    width: 75px;
+    width: 100px;
     text-align: center;
     border: 1px solid black;
     font-weight: bold;
     font-family: Comic Sans MS;
+    height: 30px;
+    font-size: 20px;
   }
   #Beef{
     position: relative;
@@ -178,12 +180,14 @@
     margin-left: 700px;
     margin-bottom: 5px;
     background-color: red;
-    width: 75px;
+    width: 100px;
     text-align: center;
     border: 1px solid black;
-    color: white;
+    color: whitesmoke;
     font-weight: bold;
     font-family: Comic Sans MS;
+    height: 30px;
+    font-size: 20px;
   }
   #Sushi{
      position: relative;
@@ -191,11 +195,13 @@
     margin-left: 800px;
     margin-bottom: 5px;
     background-color: lightgoldenrodyellow;
-    width: 75px;
+    width: 100px;
+    height: 30px;
     text-align: center;
     border: 1px solid black;
     font-weight: bold;
     font-family: Comic Sans MS;
+    font-size: 20px;
   }
   h1{
     text-align: center;
@@ -206,4 +212,5 @@
   }
   #one, #two, #three{
     font-family: Comic Sans MS;
+    padding: 10px;
   }
